@@ -1,0 +1,115 @@
+Population size = 50
+Mutation Rate = 0.5
+No of children: = 50
+No. of generations = 100
+
+========================================================================
+
+Applying Genetic Algorithm: 
+========================================================================
+The solution by GA is: 
+1 -> 10 -> 65 -> 62 -> 2 -> 5 -> 51 -> 9 -> 11 -> 24 -> 56 -> 15 -> 66 -> 12 -> 37 -> 8 -> 47 -> 13 -> 4 -> 48 -> 21 -> 42 -> 34 -> 33 -> 3 -> 36 -> 19 -> 31 -> 71 -> 53 -> 58 -> 60 -> 57 -> 68 -> 38 -> 59 -> 46 -> 27 -> 35 -> 69 -> 50 -> 14 -> 55 -> 30 -> 61 -> 45 -> 22 -> 74 -> 64 -> 28 -> 23 -> 25 -> 44 -> 39 -> 16 -> 0 -> 7 -> 49 -> 63 -> 67 -> 40 -> 18 -> 29 -> 73 -> 32 -> 41 -> 72 -> 70 -> 17 -> 6 -> 26 -> 20 -> 52 -> 54 -> 43 -> 1
+
+Cost of the solution found by Genetic Algorithm is: 1327
+
+
+Best cost in generation 1: 3354
+Best cost in generation 2: 3177
+Best cost in generation 3: 3054
+Best cost in generation 4: 2748
+Best cost in generation 5: 2803
+Best cost in generation 6: 2635
+Best cost in generation 7: 2543
+Best cost in generation 8: 2424
+Best cost in generation 9: 2451
+Best cost in generation 10: 2363
+Best cost in generation 11: 2374
+Best cost in generation 12: 2321
+Best cost in generation 13: 2292
+Best cost in generation 14: 2201
+Best cost in generation 15: 2192
+Best cost in generation 16: 2098
+Best cost in generation 17: 2003
+Best cost in generation 18: 1922
+Best cost in generation 19: 1973
+Best cost in generation 20: 2003
+Best cost in generation 21: 1924
+Best cost in generation 22: 1843
+Best cost in generation 23: 1843
+Best cost in generation 24: 1803
+Best cost in generation 25: 1777
+Best cost in generation 26: 1786
+Best cost in generation 27: 1786
+Best cost in generation 28: 1767
+Best cost in generation 29: 1767
+Best cost in generation 30: 1795
+Best cost in generation 31: 1813
+Best cost in generation 32: 1803
+Best cost in generation 33: 1758
+Best cost in generation 34: 1794
+Best cost in generation 35: 1768
+Best cost in generation 36: 1754
+Best cost in generation 37: 1747
+Best cost in generation 38: 1719
+Best cost in generation 39: 1724
+Best cost in generation 40: 1717
+Best cost in generation 41: 1657
+Best cost in generation 42: 1706
+Best cost in generation 43: 1696
+Best cost in generation 44: 1627
+Best cost in generation 45: 1621
+Best cost in generation 46: 1610
+Best cost in generation 47: 1497
+Best cost in generation 48: 1549
+Best cost in generation 49: 1531
+Best cost in generation 50: 1549
+Best cost in generation 51: 1526
+Best cost in generation 52: 1468
+Best cost in generation 53: 1468
+Best cost in generation 54: 1459
+Best cost in generation 55: 1419
+Best cost in generation 56: 1396
+Best cost in generation 57: 1419
+Best cost in generation 58: 1410
+Best cost in generation 59: 1417
+Best cost in generation 60: 1399
+Best cost in generation 61: 1350
+Best cost in generation 62: 1501
+Best cost in generation 63: 1445
+Best cost in generation 64: 1430
+Best cost in generation 65: 1423
+Best cost in generation 66: 1454
+Best cost in generation 67: 1490
+Best cost in generation 68: 1545
+Best cost in generation 69: 1506
+Best cost in generation 70: 1460
+Best cost in generation 71: 1527
+Best cost in generation 72: 1619
+Best cost in generation 73: 1555
+Best cost in generation 74: 1576
+Best cost in generation 75: 1599
+Best cost in generation 76: 1557
+Best cost in generation 77: 1550
+Best cost in generation 78: 1552
+Best cost in generation 79: 1560
+Best cost in generation 80: 1571
+Best cost in generation 81: 1483
+Best cost in generation 82: 1492
+Best cost in generation 83: 1476
+Best cost in generation 84: 1427
+Best cost in generation 85: 1486
+Best cost in generation 86: 1490
+Best cost in generation 87: 1429
+Best cost in generation 88: 1430
+Best cost in generation 89: 1425
+Best cost in generation 90: 1420
+Best cost in generation 91: 1393
+Best cost in generation 92: 1430
+Best cost in generation 93: 1397
+Best cost in generation 94: 1341
+Best cost in generation 95: 1382
+Best cost in generation 96: 1382
+Best cost in generation 97: 1378
+Best cost in generation 98: 1333
+Best cost in generation 99: 1327
+Best cost in generation 100: 1360

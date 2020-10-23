@@ -1,0 +1,115 @@
+Population size = 50
+Mutation Rate = 0.5
+No of children: = 50
+No. of generations = 100
+
+========================================================================
+
+Applying Genetic Algorithm: 
+========================================================================
+The solution by GA is: 
+1 -> 25 -> 88 -> 87 -> 19 -> 47 -> 61 -> 92 -> 62 -> 49 -> 50 -> 46 -> 35 -> 67 -> 38 -> 59 -> 21 -> 60 -> 12 -> 86 -> 40 -> 5 -> 8 -> 43 -> 98 -> 17 -> 23 -> 20 -> 11 -> 94 -> 65 -> 39 -> 34 -> 18 -> 71 -> 32 -> 76 -> 79 -> 7 -> 69 -> 45 -> 77 -> 14 -> 64 -> 29 -> 80 -> 31 -> 55 -> 91 -> 2 -> 42 -> 15 -> 9 -> 51 -> 10 -> 28 -> 48 -> 82 -> 58 -> 83 -> 33 -> 74 -> 63 -> 41 -> 95 -> 52 -> 56 -> 24 -> 78 -> 22 -> 6 -> 13 -> 99 -> 66 -> 68 -> 57 -> 53 -> 75 -> 30 -> 16 -> 85 -> 0 -> 89 -> 73 -> 27 -> 3 -> 44 -> 36 -> 93 -> 54 -> 81 -> 96 -> 90 -> 26 -> 37 -> 84 -> 97 -> 70 -> 4 -> 72 -> 1
+
+Cost of the solution found by Genetic Algorithm is: 1846
+
+
+Best cost in generation 1: 4102
+Best cost in generation 2: 3831
+Best cost in generation 3: 3987
+Best cost in generation 4: 3847
+Best cost in generation 5: 3615
+Best cost in generation 6: 3548
+Best cost in generation 7: 3387
+Best cost in generation 8: 3324
+Best cost in generation 9: 3218
+Best cost in generation 10: 3097
+Best cost in generation 11: 3187
+Best cost in generation 12: 3102
+Best cost in generation 13: 3064
+Best cost in generation 14: 2944
+Best cost in generation 15: 3011
+Best cost in generation 16: 2983
+Best cost in generation 17: 2940
+Best cost in generation 18: 2763
+Best cost in generation 19: 2760
+Best cost in generation 20: 2722
+Best cost in generation 21: 2664
+Best cost in generation 22: 2645
+Best cost in generation 23: 2605
+Best cost in generation 24: 2533
+Best cost in generation 25: 2528
+Best cost in generation 26: 2511
+Best cost in generation 27: 2542
+Best cost in generation 28: 2473
+Best cost in generation 29: 2501
+Best cost in generation 30: 2452
+Best cost in generation 31: 2377
+Best cost in generation 32: 2315
+Best cost in generation 33: 2333
+Best cost in generation 34: 2259
+Best cost in generation 35: 2242
+Best cost in generation 36: 2087
+Best cost in generation 37: 2067
+Best cost in generation 38: 2156
+Best cost in generation 39: 2128
+Best cost in generation 40: 2128
+Best cost in generation 41: 2127
+Best cost in generation 42: 2167
+Best cost in generation 43: 2103
+Best cost in generation 44: 2077
+Best cost in generation 45: 2099
+Best cost in generation 46: 2003
+Best cost in generation 47: 1975
+Best cost in generation 48: 1980
+Best cost in generation 49: 2029
+Best cost in generation 50: 2012
+Best cost in generation 51: 1958
+Best cost in generation 52: 2009
+Best cost in generation 53: 2074
+Best cost in generation 54: 2108
+Best cost in generation 55: 2016
+Best cost in generation 56: 1981
+Best cost in generation 57: 1921
+Best cost in generation 58: 1929
+Best cost in generation 59: 1923
+Best cost in generation 60: 1888
+Best cost in generation 61: 2004
+Best cost in generation 62: 2045
+Best cost in generation 63: 1977
+Best cost in generation 64: 2026
+Best cost in generation 65: 2030
+Best cost in generation 66: 2030
+Best cost in generation 67: 1971
+Best cost in generation 68: 1998
+Best cost in generation 69: 1990
+Best cost in generation 70: 2017
+Best cost in generation 71: 2016
+Best cost in generation 72: 1995
+Best cost in generation 73: 1856
+Best cost in generation 74: 1939
+Best cost in generation 75: 1904
+Best cost in generation 76: 1887
+Best cost in generation 77: 1889
+Best cost in generation 78: 1900
+Best cost in generation 79: 1928
+Best cost in generation 80: 1928
+Best cost in generation 81: 1928
+Best cost in generation 82: 1928
+Best cost in generation 83: 1928
+Best cost in generation 84: 1928
+Best cost in generation 85: 1928
+Best cost in generation 86: 1897
+Best cost in generation 87: 1897
+Best cost in generation 88: 1960
+Best cost in generation 89: 1846
+Best cost in generation 90: 1846
+Best cost in generation 91: 1930
+Best cost in generation 92: 1932
+Best cost in generation 93: 1910
+Best cost in generation 94: 2031
+Best cost in generation 95: 2046
+Best cost in generation 96: 2081
+Best cost in generation 97: 2082
+Best cost in generation 98: 2082
+Best cost in generation 99: 2025
+Best cost in generation 100: 2064
